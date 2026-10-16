@@ -1,11 +1,11 @@
 @extends('layouts.app')
 
-@section('title', 'Registrasi Tiket')
+@section('title', 'Registrasi Tiket Konser')
 
 @section('content')
 <div class="w-full max-w-md rounded-2xl bg-white p-6 shadow-sm ring-1 ring-slate-200 sm:p-8">
     <header class="mb-6">
-        <h1 class="text-2xl font-semibold text-slate-900">Registrasi Tiket Konser</h1>
+        <h1 class="text-2xl font-semibold text-slate-900">Registrasi Tiket</h1>
         <p class="mt-1 text-sm text-slate-500">Isi data di bawah untuk memesan tiket. Kolom bertanda <span class="text-red-600">*</span> wajib diisi.</p>
     </header>
 
